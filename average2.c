@@ -9,13 +9,8 @@
 #include <stdio.h>
 int main() {
     /* code */
-    float num1;
-    float num2;
-    float num3;
-    int countpersonal;
-    int count;
-    float sum;
-    float average;
+    float num1, num2, num3, average, sum;
+    int countpersonal, count;
     printf("Count? ");
     scanf("%d", &countpersonal);
     printf("Number1? ");
