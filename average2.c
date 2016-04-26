@@ -23,6 +23,7 @@ int main() {
     printf("Number2? ");
     scanf("%f", &num2);
     sum = num1 + num2;
+    count = 0;
     while (count < (countpersonal - 2)) {
         printf("Number? ");
         scanf("%f", &num3);
